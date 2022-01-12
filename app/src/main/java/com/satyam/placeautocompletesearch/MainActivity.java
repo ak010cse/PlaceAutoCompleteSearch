@@ -32,8 +32,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
 
 
-    String apiKey = "AIzaSyAyx5zLj9O0F7Q8CIpPYIi05wOxlie8CEg";
-    String apiKeys = "AIzaSyAP9ViAFSCQHr4i_DjkbKcj0Lj2BarZNIk";
+    String apiKeys = "xxxxxxxx";
 
     AutocompleteSupportFragment autocompleteFragment;
     String TAG = "MainActivity";
