@@ -3,6 +3,7 @@
 In this code you get the place autocomplete search get location detals and show in map with location.
 
 Add the dependency
+
 dependencies {
 implementation 'com.google.android.libraries.places:places:2.2.0'
 }
